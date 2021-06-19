@@ -36,7 +36,7 @@ function draw() {
   }
 
   drawSprites();
-  hasCollided();
+  
 }
 
 function hasCollided(lbullet,lwall){
